@@ -1,0 +1,11 @@
+{
+  "name": "processjson",
+  "version": "1.0.0",
+  "description": "to process the json files",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "jy",
+  "license": "ISC"
+}
