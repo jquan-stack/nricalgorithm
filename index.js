@@ -1,3 +1,5 @@
+console.log(nricCheck("insert nric here");
+
 function nricCheck(nric){
     const checkArr = {
         "s":["j","z","i","h","g","f","e","d","c","b","a"],
