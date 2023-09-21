@@ -1,7 +1,7 @@
 {
-  "name": "processjson",
+  "name": "nricalgorithm",
   "version": "1.0.0",
-  "description": "to process the json files",
+  "description": "to process the nric algorithm",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
